@@ -495,3 +495,8 @@
     border: 2px solid white ;
     border-radius: 10%;
 }
+
+.box:hover {
+    transform: scale(1.05);
+    border: 1px solid black;
+}
