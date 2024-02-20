@@ -165,11 +165,6 @@
     margin-right: 5px;
 }
 
-.border:hover {
-    border: 2px solid white ;
-    border-radius: 10%;
-}
-
 .panel {
     height: 40px;
     background-color: #232F3E;
@@ -494,4 +489,9 @@
     width: 120px;
     background-image: url("Images/amazon_logo.png");
     background-size: cover;
+}
+
+.border:hover {
+    border: 2px solid white ;
+    border-radius: 10%;
 }
